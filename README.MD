@@ -23,7 +23,7 @@ The pizza restaurant simulation uses goroutines and channels to manage the pizza
 5. The main function consumes the pizza orders from the `data` channel. It distinguishes between successfully made pizzas and failed ones, displaying appropriate messages. The process continues until the specified number of pizzas is made or the pizza orders are exhausted.
 
 
-## Project 2: Subscription Web Server -> 
+## Project 2: Subscription Web Server
 
 - **Location** -> `/app` folder
 
